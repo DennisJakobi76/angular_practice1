@@ -16,6 +16,7 @@ export class TasksComponent {
       id: 't1',
       title: 'Master Angular',
       summary:
+
         'Learn all the basic and advanced deatures of Angular & how to apply them.',
     },
   ];
