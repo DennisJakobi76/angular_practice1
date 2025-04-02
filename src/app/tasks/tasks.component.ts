@@ -16,7 +16,8 @@ export class TasksComponent {
       id: 't1',
       title: 'Master Angular',
       summary:
-        'Learn all the basic and advanced features of Angular & how to apply them.',
+
+        'Learn all the basic and advanced deatures of Angular & how to apply them.',
     },
   ];
 }
