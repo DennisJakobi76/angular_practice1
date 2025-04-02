@@ -10,4 +10,13 @@ import { TaskComponent } from './task/task.component';
 })
 export class TasksComponent {
   @Input({ required: true }) name!: string;
+
+  tasks = [
+    {
+      id: 't1',
+      title: 'Master Angular',
+      summary:
+        'Learn all the basic and advanced deatures of Angular & how to apply them.',
+    },
+  ];
 }
